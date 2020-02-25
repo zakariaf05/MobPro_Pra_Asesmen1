@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PraAssesmenMobpro</string>
+    <string name="zakariafirdaus">zakariafirdaus</string>
+    <string name="btn_change_fragment_persegi">btn_change_persegi</string>
+    <string name="btn_change_fragment_Segitiga">btn_change_segitiga</string>
+    <string name="hint_panjang">hint_panjang</string>
+    <string name="hint_lebar">hint_lebar</string>
+    <string name="btn_hitung">btn_hitung</string>
+    <string name="tv_luas_bd">tv_luas_bd</string>
+    <string name="tv_keliling_bd">tv_keliling_bd</string>
+    <string name="btn_share">btn_share</string>
+    <string name="hint_alas">hint_alas</string>
+    <string name="hint_tinggi">hint_tinggi</string>
+</resources>
